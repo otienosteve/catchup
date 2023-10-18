@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "first_name": "Heidi",
+      "last_name": "Aggas",
+      "email": "haggas1@google.pl",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "first_name": "Opal",
+      "last_name": "Cottu",
+      "email": "ocottu2@wikia.com",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "first_name": "Robena",
+      "last_name": "Leeuwerink",
+      "email": "rleeuwerink3@princeton.edu",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "first_name": "Shar",
+      "last_name": "Lowen",
+      "email": "slowen5@reference.com",
+      "gender": "Female"
+    },
+    {
+      "id": 8,
+      "first_name": "Ugo",
+      "last_name": "Pogue",
+      "email": "upogue7@biglobe.ne.jp",
+      "gender": "Male"
+    },
+    {
+      "id": 9,
+      "first_name": "Louisa",
+      "last_name": "Burges",
+      "email": "lburges8@g.co",
+      "gender": "Female"
+    },
+    {
+      "id": 10,
+      "first_name": "Tomlin",
+      "last_name": "O'Donohue",
+      "email": "todonohue9@homestead.com",
+      "gender": "Male"
+    },
+    {
+      "id": 12,
+      "first_name": "Katy",
+      "last_name": "Beddo",
+      "email": "kbeddob@usda.gov",
+      "gender": "Female"
+    },
+    {
+      "id": 13,
+      "first_name": "Daniel",
+      "last_name": "SouthField",
+      "email": "jnorthfieldc@typepad.com",
+      "gender": "Male"
+    },
+    {
+      "id": 14,
+      "first_name": "Sharity",
+      "last_name": "Jeenes",
+      "email": "sjeenesd@hud.gov",
+      "gender": "Female"
+    },
+    {
+      "id": 15,
+      "first_name": "Valentine",
+      "last_name": "Gawen",
+      "email": "vgawene@chron.com",
+      "gender": "Female"
+    },
+    {
+      "id": 18,
+      "first_name": "Andrea",
+      "last_name": "Matchitt",
+      "email": "amatchitth@wired.com",
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "first_name": "Catrina",
+      "last_name": "Casbon",
+      "email": "ccasboni@mashable.com",
+      "gender": "Female"
+    },
+    {
+      "id": 20,
+      "first_name": "Ludvig",
+      "last_name": "Ockendon",
+      "email": "lockendonj@ucoz.ru",
+      "gender": "Male"
+    },
+    {
+      "first_name": "steve",
+      "last_name": "Otieno",
+      "email": "steve@gmail.com",
+      "gender": "Male",
+      "id": 21
+    },
+    {
+      "first_name": "James",
+      "last_name": "Kamau",
+      "email": "Jk@gmail.com",
+      "gender": "Male",
+      "id": 22
+    },
+    {
+      "first_name": "Allan",
+      "last_name": "Turing",
+      "email": "at@gmail.com",
+      "gender": "Male",
+      "id": 23
+    },
+    {
+      "first_name": "William",
+      "last_name": "Ruto",
+      "email": "wruto@gmail.com",
+      "gender": "Male",
+      "id": 24
+    }
+  ]
+}
